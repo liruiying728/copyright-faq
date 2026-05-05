@@ -1,6 +1,6 @@
 # 你应了解的版权知识 FAQ
 
-[![CC BY 4.0](./88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 版权知识科普文档，涵盖 AI、字体、音视频等素材的常见问题，旨在提供实用的避坑指南与免费商用资源库，助你远离版权风险。内容以中国大陆相关法律为讨论基准，仅供参考。
 
