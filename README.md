@@ -19,7 +19,7 @@
 - [版权知识 FAQ](#版权知识-faq)
 
   <details>
-  <summary><strong>AI</strong>（[跳转小节](#ai) · 3 条）</summary>
+  <summary><strong>AI</strong></summary>
 
   - [国内 AI 工具（文心一格、即梦等）生成的图片，版权归谁？](#国内-ai-工具文心一格即梦等生成的图片版权归谁)
   - [用 AI 生成的图片，能用于企业商标注册吗？](#用-ai-生成的图片能用于企业商标注册吗)
@@ -28,7 +28,7 @@
   </details>
 
   <details>
-  <summary><strong>字体</strong>（[跳转小节](#字体) · 15 条）</summary>
+  <summary><strong>字体</strong></summary>
 
   - [图片（海报、banner 等）中文字使用某款商用字体中的一个字算侵权吗？](#图片海报banner-等中文字使用某款商用字体中的一个字算侵权吗)
   - [修改侵权字体多于三处算侵权吗？](#修改侵权字体多于三处算侵权吗)
@@ -49,7 +49,7 @@
   </details>
 
   <details>
-  <summary><strong>图片</strong>（[跳转小节](#图片) · 4 条）</summary>
+  <summary><strong>图片</strong></summary>
 
   - [昵图网的图片可以商用吗？](#昵图网的图片可以商用吗)
   - [公司产品配图中使用了游戏截图侵权吗？](#公司产品配图中使用了游戏截图侵权吗)
@@ -59,7 +59,7 @@
   </details>
 
   <details>
-  <summary><strong>音频</strong>（[跳转小节](#音频) · 3 条）</summary>
+  <summary><strong>音频</strong></summary>
 
   - [线上线下商用使用了音乐做 bgm 侵权吗？](#线上线下商用使用了音乐做-bgm-侵权吗)
   - [购买了音乐内置到 app 后，app 能售卖给客户去做二次开发吗？](#购买了音乐内置到-app-后app-能售卖给客户去做二次开发吗)
@@ -68,7 +68,7 @@
   </details>
 
   <details>
-  <summary><strong>其他</strong>（[跳转小节](#其他) · 10 条）</summary>
+  <summary><strong>其他</strong></summary>
 
   - [截图他人作品用于评测、教程或说明，算侵权吗？](#截图他人作品用于评测教程或说明算侵权吗)
   - [标注了 CC 协议的内容可以随意使用吗？](#标注了-cc-协议的内容可以随意使用吗)
