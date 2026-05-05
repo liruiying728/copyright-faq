@@ -492,3 +492,11 @@
 - 以上内容侵权与否判别除有明确法律规定的外，会以我个人的经验为主，并使用相关新闻作为辅助证明。
 - 内容如有误，欢迎指正纠错。
 - 最新更新时间：2026 年 05 月 06 日。
+
+## 许可证
+
+本文档采用 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 许可证。
+
+你可以自由地转载、修改、引用和商业使用本文档内容，但需要 **署名** 原作者并标明许可证链接。
+
+Copyright (c) 2026 [Li Ruiying](https://www.ruiying.li/)
